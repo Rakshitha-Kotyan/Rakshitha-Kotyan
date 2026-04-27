@@ -8,7 +8,7 @@
 - Android, React, Node.js
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Rakshitha-Kotyan&show_icons=true)
 
 ## 🌐 Connect with me
 - LinkedIn: your-link
