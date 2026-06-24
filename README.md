@@ -1,12 +1,12 @@
-# 👩‍💻 Rakshitha Kotyan
+#  Rakshitha Kotyan
 
-## 🙋‍♀️ About Me:
+##  About Me:
 I am a passionate software developer with experience in full-stack development (MERN & Java) and machine learning. I have a strong foundation in algorithms, data structures, and web technologies, along with IEEE-published research work.
 
-## 🌐 Socials:
+##  Socials:
 [LinkedIn](https://www.linkedin.com/in/rakshitha-kotyan/) | [GitHub](https://github.com/Rakshitha-Kotyan/) | [Portfolio](https://my-portfolio-phi-olive-61.vercel.app/)
 
-## 💻 Tech Stack:
+##  Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -24,7 +24,7 @@ I am a passionate software developer with experience in full-stack development (
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
 
-## 📊 GitHub Stats:
+##  GitHub Stats:
 ![Rakshitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rakshitha-Kotyan&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshitha-Kotyan&layout=compact&theme=tokyonight)
