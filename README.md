@@ -8,9 +8,7 @@ I am a passionate software developer with experience in full-stack development (
 
 ##  Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge)
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -21,8 +19,6 @@ I am a passionate software developer with experience in full-stack development (
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
 
 ##  GitHub Stats:
 ![Rakshitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rakshitha-Kotyan&show_icons=true&theme=tokyonight)
