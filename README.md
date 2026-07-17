@@ -4,7 +4,7 @@
 I am a passionate software developer with experience in full-stack development (MERN & Java) and machine learning. I have a strong foundation in algorithms, data structures, and web technologies, along with IEEE-published research work.
 
 ##  Socials:
-[LinkedIn](https://www.linkedin.com/in/rakshitha-kotyan/) | [GitHub](https://github.com/Rakshitha-Kotyan/) | [Portfolio](https://my-portfolio-phi-olive-61.vercel.app/)
+[LinkedIn](https://www.linkedin.com/in/rakshitha-kotyan/) | [GitHub](https://github.com/Rakshitha-Kotyan/) | [Portfolio](https://my-portfolio-phi-olive-61.vercel.app/) | [LeetCode](https://leetcode.com/u/Rakshitha_kotyan/) 
 
 ##  Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
